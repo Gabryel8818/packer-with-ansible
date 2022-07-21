@@ -1,0 +1,3 @@
+---
+- name: test hardening
+  import_tasks: hardening.yml
